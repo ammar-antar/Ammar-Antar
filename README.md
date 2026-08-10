@@ -210,7 +210,7 @@ I actively practice programming and problem solving to strengthen my algorithmic
 ## ❯ Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-antar&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/ammar-antar/ammar-antar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 </div>
 
