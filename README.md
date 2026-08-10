@@ -207,15 +207,6 @@ I actively practice programming and problem solving to strengthen my algorithmic
 
 ---
 
-## ❯ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ammar-antar/ammar-antar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-</div>
-
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ammar-antar&style=flat-square&color=00D9FF" alt="Profile Views"/>
 </div>
