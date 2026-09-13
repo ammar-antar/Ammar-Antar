@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- dynamic background banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=200&section=header&text=Ammar%20Antar&fontSize=40&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Software%20Engineer&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=200&section=header&text=Ammar%20Antar&fontSize=40&fontColor=ffffff&animation=twinkle&fontAlignY=38&desc=Frontend%20Dev&descSize=18&descAlignY=62" width="100%" />
 
 <br>
 
