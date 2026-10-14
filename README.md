@@ -83,6 +83,9 @@
 ## ❯ Featured Projects
 
 <p align="center">
+  <a href="https://github.com/ammar-antar/ShopNow-Store-E-Commerce">
+    <img src="https://img.shields.io/badge/ShopNow_Store-E--Commerce-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
   <a href="https://github.com/ammar-antar/-Browser-Extensions-Manager">
     <img src="https://img.shields.io/badge/Browser_Extensions_Manager-VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
